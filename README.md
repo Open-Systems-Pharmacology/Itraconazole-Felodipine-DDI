@@ -1,6 +1,6 @@
 # Itraconazole-Felodipine-DDI
 
-Modeling of published clinical Itraconazole-Midazolam-DDI studies for model evaluation
+Modeling of published clinical Itraconazole-Felodipine-DDI studies for model evaluation
 
 Within this repository, we distribute a PK-Sim snapshot file containing simulations of published clinical studies used to evaluate the predictive performance of our models regarding the Itraconazole-Felodipine-DDI, including the respective observed data digitized from literature reports.
 
