@@ -4,7 +4,7 @@ Modeling of published clinical Itraconazole-Felodipine-DDI studies for model eva
 
 Within this repository, we distribute a PK-Sim snapshot file containing simulations of published clinical studies used to evaluate the predictive performance of our models regarding the Itraconazole-Felodipine-DDI, including the respective observed data digitized from literature reports.
 
-**The latest release of the snapshot can be found [here](https://github.com/Open-Systems-Pharmacology/Itraconazole-Sildenafil-DDI/releases/latest).**
+**The latest release of the snapshot can be found [here](https://github.com/Open-Systems-Pharmacology/Itraconazole-Felodipine-DDI/releases/latest).**
 
 The reference model repositories can be found here:
 * [Itraconazole OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Itraconazole-Model)
